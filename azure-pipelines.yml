@@ -10,7 +10,7 @@ resources:
 
 variables:
     # Container registry service connection established during pipeline creation
-    azureSubscription: 'Free Trial'
+    azureSubscription: Free Trial(bb3758b6-3e95-4128-8460-c1bdb393c503)
     dockerRegistryServiceConnection: acrconnection
     imageRepository: 'taskapp'
     containerRegistry: 'contactappecr.azurecr.io'
